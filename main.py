@@ -8,3 +8,4 @@ while True:
     print('Mouse moved')
     xOffset = -xOffset  # toggle between positive and negative values
     time.sleep(10)
+print("hello")
